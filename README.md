@@ -20,7 +20,7 @@
 <div align="center"> 
   <hr noshade size="1">
   <p>how to reach me?</p>
-  <p><a  href="https://t.me/exiltrip"> <strong> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png" alt="tg" style="width:1%;"> telegram </strong> </a></p>
+  <p><a  href="https://t.me/exiltripweb"> <strong> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png" alt="tg" style="width:1%;"> telegram </strong> </a></p>
   <hr noshade size="1">
 <p>btw my compiler giving me err help me plz</p>
 <img src="https://user-images.githubusercontent.com/107318246/173908685-8039feb6-4cbe-44c5-a447-8a254d2d8abd.png" alt="bruh">
