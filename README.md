@@ -25,6 +25,4 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=exiltrip&show_icons=true&bg_color=00000000)
 
-<p>btw my compiler giving me err help me plz</p>
-<img src="https://user-images.githubusercontent.com/107318246/173908685-8039feb6-4cbe-44c5-a447-8a254d2d8abd.png" alt="bruh">
 </div>
