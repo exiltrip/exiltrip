@@ -14,10 +14,10 @@ For me:
 [![REDUX](https://img.shields.io/badge/redux-grey.svg?style=for-the-badge&logo=redux)](#)
 [![EFFECTOR](https://img.shields.io/badge/effector-grey.svg?style=for-the-badge&logo=effector)](#)
 
-[![PYTHON](https://img.shields.io/badge/python-grey.svg?style=for-the-badge&logo=python)](#)
-[![DJANGO](https://img.shields.io/badge/django-grey.svg?style=for-the-badge&logo=django)](#)
 [![GOLANG](https://img.shields.io/badge/golang-grey.svg?style=for-the-badge&logo=go)](#)
 [![GIN](https://img.shields.io/badge/gin-grey.svg?style=for-the-badge&logo=gin)](#)
+[![PYTHON](https://img.shields.io/badge/python-grey.svg?style=for-the-badge&logo=python)](#)
+[![DJANGO](https://img.shields.io/badge/django-grey.svg?style=for-the-badge&logo=django)](#)
 
 [![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-grey.svg?style=for-the-badge&logo=postgreSQL)](#)
 [![REDIS](https://img.shields.io/badge/redis-grey.svg?style=for-the-badge&logo=redis)](#)
