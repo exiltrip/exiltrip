@@ -18,6 +18,7 @@ For me:
 [![GIN](https://img.shields.io/badge/gin-grey.svg?style=for-the-badge&logo=gin)](#)
 [![PYTHON](https://img.shields.io/badge/python-grey.svg?style=for-the-badge&logo=python)](#)
 [![DJANGO](https://img.shields.io/badge/django-grey.svg?style=for-the-badge&logo=django)](#)
+[![C](https://img.shields.io/badge/clang-grey.svg?style=for-the-badge&logo=c)](#)
 
 [![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-grey.svg?style=for-the-badge&logo=postgreSQL)](#)
 [![REDIS](https://img.shields.io/badge/redis-grey.svg?style=for-the-badge&logo=redis)](#)
