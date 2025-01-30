@@ -21,10 +21,13 @@ For me:
 [![C](https://img.shields.io/badge/clang-grey.svg?style=for-the-badge&logo=c)](#)
 
 [![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-grey.svg?style=for-the-badge&logo=postgreSQL)](#)
+[![MONGODB](https://img.shields.io/badge/mongodb-grey.svg?style=for-the-badge&logo=mongodb)](#)
 [![REDIS](https://img.shields.io/badge/redis-grey.svg?style=for-the-badge&logo=redis)](#)
+[![RABBITMQ](https://img.shields.io/badge/rabbitmq-grey.svg?style=for-the-badge&logo=rabbitmq)](#)
 
 [![NGINX](https://img.shields.io/badge/Nginx-grey.svg?style=for-the-badge&logo=nginx)](#)
 [![DOCKER](https://img.shields.io/badge/Docker-grey.svg?style=for-the-badge&logo=docker)](#)
+[![ANSIBLE](https://img.shields.io/badge/Ansible-grey.svg?style=for-the-badge&logo=ansible)](#)
 [![K8S](https://img.shields.io/badge/Kubernetes-grey.svg?style=for-the-badge&logo=kubernetes)](#)
 
 [![GIT](https://img.shields.io/badge/Git-grey.svg?style=for-the-badge&logo=Git)](#)
