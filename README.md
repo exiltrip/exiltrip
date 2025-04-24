@@ -38,4 +38,4 @@ For me:
 
 ### My GitHub stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.asklar.vercel.app/api?show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&show_icons=true&hide_border=true&custom_title=Github&nbsp;Stats&username=exiltrip)
+![Anurag's GitHub stats](https://github-readme-stats.asklar.vercel.app/api?show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&show_icons=true&hide_border=false&custom_title=Github&nbsp;Stats&username=exiltrip)
